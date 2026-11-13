@@ -4,9 +4,9 @@
 set -eu
 
 main() {
-  BASE="https://github.com/iskanginux/meetiline-daily-site/releases/download/v0.4.5"
+  BASE="https://github.com/iskanginux/meetiline-daily-site/releases/download/v0.4.6"
   FILE="Meetiline-Daily.dmg"
-  SHA256="873a102bb0ce79b36c899139711444a60dd98124db24ab1cdbe3d9a065e0effc"
+  SHA256="f8b4c6a632e3f0e45306012f72d7fbbbd50d5c9e6667cc60ccd822eecec11d96"
   APP="Meetiline Daily"
   BUNDLE_ID="app.meetiline.mac.daily"
   DEST="${MEETILINE_DEST:-/Applications}"
